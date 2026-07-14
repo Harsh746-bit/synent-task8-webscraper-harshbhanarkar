@@ -11,7 +11,7 @@ The objective of this project is to understand the fundamentals of web scraping 
 ---
 ## 🎥 Demo Video
 
-[[![Watch the Demo](https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)](https://youtu.be/ZwdfmiHgBZ0
+[[![Watch the Demo](https://www.youtube.com/watch?v=dQw4w9WgXcQ)](https://youtu.be/ZwdfmiHgBZ0
 task 8)
 
 ## Features
